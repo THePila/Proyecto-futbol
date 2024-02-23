@@ -1,0 +1,40 @@
+.home-screen {
+    width: 100%;
+    height: 100vh;
+    color: white;
+    background-image: url("../../public/Imagenes/chiqui.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.nav {
+    backdrop-filter: blur(10px);
+    height: 60px;
+    border-bottom: 1px solid white !important; 
+}
+
+html body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap')
